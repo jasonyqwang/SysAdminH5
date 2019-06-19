@@ -34,9 +34,18 @@
     vuex
     element
     
-    	
 ## 项目预览
+![登录](https://upload-images.jianshu.io/upload_images/8579438-4f7c11ff83c355d8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![首页](https://upload-images.jianshu.io/upload_images/8579438-1a6f6b41de9cc67f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![用户](https://upload-images.jianshu.io/upload_images/8579438-d83ad23f1089798d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![权限添加保存](https://upload-images.jianshu.io/upload_images/8579438-e199cf69f5aaf811.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![角色权限分配](https://upload-images.jianshu.io/upload_images/8579438-8ddcf845a2e3dbfd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     
-    首页
-    ![](doc/home.jpg)	
+![后台操作日志](https://upload-images.jianshu.io/upload_images/8579438-989feb1bc765f202.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)	
+
+本工程的H5项目是基于  [vue-manage-system](https://github.com/lin-xin/vue-manage-system) 开源项目 进行改造（感谢作者贡献）
 	
